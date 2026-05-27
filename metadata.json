@@ -1,0 +1,6 @@
+{
+  "name": "IT Risk & Compliance Resume Optimizer",
+  "description": "An interactive portfolio and AI assistant showcasing fraud investigation, SLA operations, and resume optimization with live compliance assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
